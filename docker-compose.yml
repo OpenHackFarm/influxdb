@@ -1,3 +1,4 @@
+# influx 1.2
 influxdb:
   image: influxdb:latest
   container_name: influxdb
